@@ -1,2 +1,27 @@
 # canon_Printer_scanner
-canon_Printer_scanner 설정하는 방법
+## 기종 iR-ADV C3930 / iR-ADV C3930
+
+## canon_Printer_scanner 설정하는 방법
+### 1. 캐논 프린터는 아래 파일만 설치 하면 끝
+   https://drive.google.com/file/d/18bZcSp2oV_ae3M-AMbmjP73PS0SckE5U/view?usp=sharing
+   
+### 2. 캐논 스캐너는 다음의 절차를 거쳐야 함.    
+1. https://drive.google.com/file/d/15SYiMduKKC6Zv8dHCwCuw6z9B3DGr5dj/view?usp=sharing   
+2. 설치 하는 파일은 FTP 서버임.     
+3. 설치 하고 나면 트레이에 이것이 생김   
+4. <img width="549" height="253" alt="image" src="https://github.com/user-attachments/assets/b5a502c6-8ab6-49ee-bb1f-0dab68734ca9" />   
+5. 설정   
+6. <img width="334" height="203" alt="image" src="https://github.com/user-attachments/assets/6c8c405d-b403-4a57-b06f-75bcf7a90eaf" />    
+7. <img width="334" height="203" alt="image" src="https://github.com/user-attachments/assets/0015d11e-81f5-4e2e-b018-b644abc0f6d0" />   
+8. 프린터에 가면 화면 오른쪽 하단에 123 숫자 있음 거기 누르면 ip address 가 나옴
+9. <img width="1073" height="706" alt="image" src="https://github.com/user-attachments/assets/26a68f6f-47c8-4a97-b8b4-67259370b9ff" />
+10. 맨 아랫쪽에 주소리스트 원터치 
+11. <img width="1073" height="706" alt="image" src="https://github.com/user-attachments/assets/b494cccb-c929-459e-9861-b3a09a8b8bb8" />
+12. 미등록 부분을 선택 해서
+13. <img width="1073" height="706" alt="image" src="https://github.com/user-attachments/assets/a1fe9d61-586d-47ed-91a5-bb5abe22dd24" />
+14. <img width="1073" height="706" alt="image" src="https://github.com/user-attachments/assets/1608225f-3da6-40a6-9ce7-13aeb60e07e5" />
+
+
+
+
+
