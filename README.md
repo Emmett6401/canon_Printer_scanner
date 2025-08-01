@@ -21,6 +21,8 @@
 13. <img width="1073" height="706" alt="image" src="https://github.com/user-attachments/assets/a1fe9d61-586d-47ed-91a5-bb5abe22dd24" />
 14. <img width="1073" height="706" alt="image" src="https://github.com/user-attachments/assets/1608225f-3da6-40a6-9ce7-13aeb60e07e5" />
 
+### FTP 포트 21이 사용중이거나 또는 막혀 있을 경우 수신이 안될수 있다. 
+### 나의 주소 61.81.98.31:7777 이렇게 포트를 정해 주면 된다 물론 서버 셋팅에서 지정한 포트 번호와 맞춰야 한다. 
 
 
 
