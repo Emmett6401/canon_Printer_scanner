@@ -18,7 +18,7 @@
 2. 설치 하는 파일은 FTP 서버임.     
 3. 설치 하고 나면 트레이에 이것이 생김   
 4. <img width="549" height="253" alt="image" src="https://github.com/user-attachments/assets/b5a502c6-8ab6-49ee-bb1f-0dab68734ca9" />   
-5. 설정   
+5. 설정 (아래 그림의 TCP Port를 7777로 하는것이 가장 무난한것 같음 21이 막혀 있는 경우가 많음)
 6. <img width="334" height="203" alt="image" src="https://github.com/user-attachments/assets/6c8c405d-b403-4a57-b06f-75bcf7a90eaf" />    
 7. <img width="334" height="203" alt="image" src="https://github.com/user-attachments/assets/0015d11e-81f5-4e2e-b018-b644abc0f6d0" />   
 8. 프린터에 가면 화면 오른쪽 하단에 123 숫자 있음 거기 누르면 ip address 가 나옴
