@@ -1,8 +1,16 @@
 # canon_Printer_scanner
+
 ## 기종 iR-ADV C3930 / iR-ADV C3930
 
 ## canon_Printer_scanner 설정하는 방법
+
 ### 1. 캐논 프린터는 아래 파일만 설치 하면 끝
+
+1. 프린터에 가면 화면 오른쪽 하단에 123 숫자 있음 거기 누르면 ip address 가 나옴
+  <img width="565" height="510" alt="image" src="https://github.com/user-attachments/assets/3b585b7a-ba38-4eed-b4f0-32e39b6cbfbb" /> <img width="565" height="510" alt="image" src="https://github.com/user-attachments/assets/0a92ec1f-d1ac-441d-8b4a-3baa3e3cae04" />
+
+3. 자리로 돌아와서 아래 드라이버를 설치 하면서 IP  주소를 입력 해주면 끝
+   
    https://drive.google.com/file/d/18bZcSp2oV_ae3M-AMbmjP73PS0SckE5U/view?usp=sharing
    
 ### 2. 캐논 스캐너는 다음의 절차를 거쳐야 함.    
